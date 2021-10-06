@@ -1,4 +1,4 @@
-# SadPugs - 10,000 Ballers in NFT on Ethereum.
+# SadPugs - 10,000 dogs in NFT on Ethereum.
 
 This project is for [Sadpugs](https://sadpugs.com)
 
