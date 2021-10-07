@@ -12,6 +12,13 @@ export const ENVS = {
   // CHAIN_ID: "0x4",
 
   //Kovan Testnet
-  CONTRACT_ADDRESS : "0x9238c202C55d3dAE6dC8d645F7a78c57683A8bcc",
-  CHAIN_ID : "42",
+  // CONTRACT_ADDRESS : "0x9238c202C55d3dAE6dC8d645F7a78c57683A8bcc",
+  // CHAIN_ID : "42",
+  
+  
+  // Rinkeby Testnet
+  CONTRACT_ADDRESS: "0xEbc331d1565E451205329592d7C28D70c86a203A",
+  CHAIN_ID: "0x3",
+
+
 }

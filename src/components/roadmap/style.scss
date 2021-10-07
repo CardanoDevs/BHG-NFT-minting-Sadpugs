@@ -3,7 +3,7 @@
 .roadmap {
   width: 100%;
   background-color: $Black-dark;
-  padding: 64px calc((100vw - 1280px) / 2);
+  padding: 40px calc((100vw - 1280px) / 2);
   color: $White;
   overflow: hidden;
   align-items: center;
@@ -16,8 +16,6 @@
 
     & > img {
       width: 360px;
-      height: stretch;
-      height: intrinsic;
     }
   }
 
@@ -26,7 +24,7 @@
     padding: 0 64px;
     font-size: 72px;
     font-weight: bold;
-    margin-top: -160px;
+    margin-top: -220px;
     z-index: 2;
   }
 
@@ -45,11 +43,11 @@
     }
 
     &-comment {
-      font-size: 18px;
+      font-size: 20px;
 
       & > a {
         color: $Gold;
-        font-size: 18px;
+        font-size: 20px;
       }
     }
   }
@@ -109,7 +107,7 @@
       }
 
       &-comment {
-        font-size: 14px;
+        font-size: 18px;
 
         & > a {
           font-size: 14px;

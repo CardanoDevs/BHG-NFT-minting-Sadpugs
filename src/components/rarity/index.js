@@ -28,7 +28,7 @@ const generateRarity = () =>
 const Rarity = () => (
   <div className="rarity flex flex-column">
     <div className="rarity-ranking flex flex-column">
-      <span>Rarities</span>
+      <span>Rarity</span>
  
     </div>
     <div className="rarity-classes flex">

@@ -25,7 +25,7 @@
     }
 
     &-content {
-      font-size: 18px;
+      font-size: 20px;
 
       & span {
         font-weight: bold;
@@ -44,8 +44,8 @@
 
     & > img {
       width: 240px;
-      height: stretch;
-      height: intrinsic;
+      // height: stretch;
+      // height: intrinsic;
     }
   }
 }
