@@ -17,8 +17,8 @@ export const ENVS = {
   
   
   // Rinkeby Testnet
-  CONTRACT_ADDRESS: "0xEbc331d1565E451205329592d7C28D70c86a203A",
-  CHAIN_ID: "0x3",
+  CONTRACT_ADDRESS: "0xe439B1E020a76fdAC46f77defD470b385929e62c",
+  CHAIN_ID: "0x4",
 
 
 }

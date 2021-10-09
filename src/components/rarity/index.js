@@ -55,7 +55,7 @@ const Rarity = () => (
     </div>
 
     <div className="rarity-ranking-comment">
-        Remember, There are 95 traits that were hand drawn by our artist. Then, the hand drawn traits were put into a generator. From the generator 10,000 Pugs are available for minting.
+        There are 95 traits that were hand drawn by our artist. Then, the hand drawn traits were put into a generator. From the generator 10,000 Pugs are available for minting.
       </div>
    
   </div>

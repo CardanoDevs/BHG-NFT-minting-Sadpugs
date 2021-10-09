@@ -41,7 +41,7 @@ export const Roadmaps = [
   {
     percentage: 100,
     comment:
-      "Second charity donat ion chosen by community. The charity chosen will focus on Animal Shelters and Rescue.👀",
+      "Second charity donation chosen by community. The charity chosen will focus on Animal Shelters and Rescue.👀",
   }
 ]
 
@@ -64,7 +64,7 @@ export const FAQs = [
   {
     question: "Is there a limit to how many Pugs I can mint?",
     answer:
-      "There is no limit to how many pugs you can mint.",
+      "The mint limit is 5 mints per transaction.",
   },
   {
     question: "How can I Mint a Sad Pug?",

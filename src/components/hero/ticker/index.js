@@ -29,7 +29,7 @@ const Ticker = ({
         {Object.keys(timeLeft).length === 0 ? (
           <>
             <span>Total Minted</span>
-            <span className="hero-wallet-purchase-ticker-counts">{`${soldOutCounts} / ${maxSupply}`}</span>
+            <span className="hero-wallet-purchase-ticker-counts">{`? / ${maxSupply}`}</span>
             {maxSupply === 0 ? (
               <p className="warning">Metamask has not installed</p>
             ) : soldOutCounts === maxSupply ? (

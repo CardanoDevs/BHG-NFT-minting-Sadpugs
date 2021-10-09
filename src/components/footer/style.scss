@@ -4,9 +4,8 @@
   width: 100%;
   padding: 64px calc((100vw - 1280px) / 2);
   justify-content: space-around;
-  background-image: url("../../resources/footer.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: $Black-dark;
+
 
   &-logo {
     & > a {
