@@ -13,15 +13,15 @@ const TeamMembers = () => (
       <div className="team-members flex">
       <div className="flex flex-column">
         <img className="hof" src={Ellie} alt="hof" />
-        <span>Ellie</span>
+        <span>Ellie Co-founder</span>
       </div>
       <div className="flex flex-column">
         <img className="gold" src={Jay} alt="gold" />
-        <span>Jay</span>
+        <span>Jay Founder</span>
       </div>
       <div className="flex flex-column">
         <img className="mastercard" src={Dmitrii} alt="mastercard" />
-        <span>Dmitrii</span>
+        <span>Dmitrii developer</span>
       </div>
     </div>
 
