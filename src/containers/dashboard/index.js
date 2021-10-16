@@ -122,7 +122,7 @@ const Dashboard = () => {
       window.ethereum.on("accountsChanged", (accounts) => {
         if (accounts.length) {
           setWalletAddress(accounts[0])
-          setStatus("Get your SadPug pack, 0.006ETH")
+          setStatus("Get your SadPug pack, 0.013ETH")
         } else {
           setWalletAddress("")
           setStatus("Connect Metamask")

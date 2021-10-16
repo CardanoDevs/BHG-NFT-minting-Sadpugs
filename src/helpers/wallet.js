@@ -67,7 +67,7 @@ export const getCurrentWalletConnected = async () => {
       if (addressArray.length && walletChainId === ENVS.CHAIN_ID) {
         return {
           address: addressArray[0],
-          status: "Get your SadPug pack, 0.006ETH",
+          status: "Get your SadPug pack, 0.013ETH",
         }
       } else {
         return {

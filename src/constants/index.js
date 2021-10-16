@@ -54,7 +54,7 @@ export const FAQs = [
   {
     question: "How much does a Sad Pug cost to mint?",
     answer:
-      "It will cost 0.006 ETH + gas fees to mint a Sad Pug.",
+      "It will cost 0.013 ETH + gas fees to mint a Sad Pug.",
   },
   {
     question: "Is the art generated or hand-made?",

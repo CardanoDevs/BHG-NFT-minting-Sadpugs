@@ -57,7 +57,7 @@ const Minter = ({
                     onChange={onMintCountChangeHandler}
                   />
                   <Button
-                    children="Mint Sad Pug for 0.006 ETH"
+                    children="Mint Sad Pug for 0.013 ETH"
                     mintLoading={mintLoading}
                     onMintHandler={onMintHandler}
                     onClick={() => {

@@ -55,7 +55,6 @@ const Rarity = () => (
     </div>
 
     <div className="rarity-ranking-comment">
-        There are 95 traits that were hand drawn by our artist. Then, the hand drawn traits were put into a generator. From the generator 10,000 Pugs are available for minting.
         $147,000 Total Available Prizes for minting these 5 rare Sad Pugs.
         <br/>
         <br/>
