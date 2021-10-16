@@ -10,6 +10,7 @@ import Learn from "components/learn"
 import Rarity from "components/rarity"
 import FuturePlans from "components/future"
 import Roadmap from "components/roadmap"
+import TeamMembers from "components/team"
 import FAQ from "components/faq"
 // import TeamMembers from "components/team"
 import Footer from "components/footer"
@@ -116,7 +117,7 @@ const Dashboard = ({
     <Rarity />
     <Roadmap />
     <FAQ />
-    {/* <TeamMembers /> */}
+    <TeamMembers /> 
     <Footer />
   </div>
 )

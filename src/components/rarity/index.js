@@ -56,7 +56,17 @@ const Rarity = () => (
 
     <div className="rarity-ranking-comment">
         There are 95 traits that were hand drawn by our artist. Then, the hand drawn traits were put into a generator. From the generator 10,000 Pugs are available for minting.
-      </div>
+        $147,000 Total Available Prizes for minting these 5 rare Sad Pugs.
+        <br/>
+        <br/>
+        Mint Kitty, Clooney, or Matcha:  receive $100 worth of ETH per month for 8 years totaling $1,200 worth of ETH per year, or $9,600 worth of ETH overall.
+        <br/>
+        <br/>
+        Mint Butters:  receive $400 worth of ETH per month for 8 years totaling $4,800 worth of ETH per year, or $38,400 worth of ETH overall.
+        <br/>
+        <br/>
+        Mint Gandalf:  receive $833.34 worth of ETH per month for 8 years totaling $10,000 worth of ETH per year, or $80,000.64 worth of ETH overall. 
+    </div>
    
   </div>
 )
